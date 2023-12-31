@@ -1,0 +1,13 @@
+switch (tipo) {
+            case "Autônomo":
+                break;
+
+            case "Colaborador":
+                break;
+
+            case "Empresa":
+                break;
+
+            case "Jovem Aprendiz":
+                break;
+        }
