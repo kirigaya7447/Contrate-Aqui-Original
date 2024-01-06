@@ -1,4 +1,6 @@
-**Contrate Aqui**
+**Contrate Aqui-java version**
+
+(Esta é uma versão antiga do projeto, na qual não caminhou para a frente pelo motivo de não conseguir atender as principais funções do projeto)
 
 O Contrate Aqui(anteriormente intitulado Empreendedor Conectado) é um app com um site de extensão, ele foi criado com o intuito de assim como o Facebook: aproximar pessoas, porém, seus usuários são pessoas que já estão trabalhando ou que estão buscando emprego.
 
